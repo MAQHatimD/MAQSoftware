@@ -19,7 +19,7 @@
    
     "autoplay": true,
     "autoplaySpeed": 800,
-    "autoplayTimeout": 6000,
+    "autoplayTimeout": 60,
     "autoplayHoverPause": true,
     "navSpeed": 800,
     "paginationSpeed": 800,
